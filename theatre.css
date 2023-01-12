@@ -1,0 +1,116 @@
+ul{list-style-type: none;
+  margin: 0;
+  padding: 0;}
+
+  a{color: white;}
+
+div{width: 100%;
+    height: 30px;
+    background-color: black;
+    word-spacing: 50px;
+}
+
+#box1{height: 0px;
+    background-color: black;
+    color: white;
+    text-indent: 0%;
+    text-align-last: left;
+    font-size: 15px;
+    word-spacing: normal;}
+
+
+.theatre1{
+    height: 2000%;
+    width: 100%;
+    padding-top: 20px;
+
+}
+
+.container{
+    display: flex;}
+
+
+h2{color: white;
+    margin-left: 30%;
+    margin-top: -30%;
+    font-size: 400%;
+    
+
+
+}
+    
+.textBox{
+    margin-left: 0%;
+    margin-bottom: 0%;}
+
+.raisin{
+    margin-left: 150px;
+    margin-top: 250px;
+    height: 175px;
+    width: 250px;
+
+
+
+}
+
+.shows{
+    margin-top: 12%;
+    height: 0px;
+    width: 0px;
+}
+
+
+h3{
+    font-size: small;
+    text-align: justify;
+    text-align: center;
+    margin-left: 500px;
+    display: inline-flex;
+    margin-bottom: 200px;
+    
+
+
+
+}
+
+
+.ticket{
+    background-color: white;
+    
+
+
+
+}
+
+
+#button{
+    background-color: orange;
+    color: black;
+}
+
+
+.tickets{
+    height: 0px;
+    width: 0px;
+    margin-top: -185px;
+
+
+
+}
+
+.buttonBOX{
+    height: 0px;
+    width: 0px;
+    margin-left: 600px;
+    position: absolute;
+    margin-top: -400px;
+    
+
+
+
+
+
+}
+    
+
+    li{display: inline;}
